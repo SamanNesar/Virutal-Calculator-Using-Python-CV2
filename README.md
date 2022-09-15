@@ -21,7 +21,7 @@
 
 4. Result
 
-![image](https://user-images.githubusercontent.com/75372049/190446272-f3e935ab-48c0-480f-b95a-925e40cb8c84.png)
+![image](https://user-images.githubusercontent.com/75372049/190446596-fd4662c7-a004-4def-a9fd-6241813c2a72.png)
 
 
 
