@@ -8,6 +8,7 @@
 ## Demo
 
 1. Hand Detected
+
 ![image](https://user-images.githubusercontent.com/75372049/190442926-2fee52a1-52ba-4cd8-94c8-baf314e18bc7.png)
 
 2. Inserting the value into calulator
@@ -19,6 +20,8 @@
 ![image](https://user-images.githubusercontent.com/75372049/190444822-77e94aa8-42af-40cc-91cb-20c89c319d42.png)
 
 4. Result
-![image](https://user-images.githubusercontent.com/75372049/190445284-0cab0710-9668-416e-bd00-d963da098980.png)
+
+![image](https://user-images.githubusercontent.com/75372049/190446272-f3e935ab-48c0-480f-b95a-925e40cb8c84.png)
+
 
 
